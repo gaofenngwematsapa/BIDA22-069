@@ -1,0 +1,119 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    background: black;
+}
+
+.menubar
+{
+    background: black;
+    text-align: center;
+}
+
+.menubar ul
+{
+    display: inline-flex;
+    list-style: none;
+}
+
+.menubar ul li
+{
+    width: 120px;
+    margin: 25px;
+    padding: 10px;
+}
+
+.menubar ul li a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.menubar ul li a:hover
+{
+    background-color: white;
+    color: black;
+}
+
+h1
+{
+    color: white;
+    font-family: sans-serif;
+    margin-bottom: 15px;
+}
+
+div.scroll-container
+{
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scroll-container img
+{
+    padding: 5px;
+}
+
+.social-icons
+{
+    background: black;
+    text-align: center;
+}
+
+.social-icons ul
+{
+    display: inline-flex;
+    list-style: none;
+}
+
+.social-icons ul li
+{
+    width: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.menubar ul li a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.social-icons ul li a:hover
+{
+    background-color: white;
+    color: black;
+}
+
+footer p
+{
+  color: white;
+  text-align: center;
+  margin: 15px;
+}
+
+p
+{
+    color: white;
+}
+
+.form
+{
+    color:white;
+}
+
+input[type=submit]
+{
+    color: white;
+    background: blue;
+    cursor: pointer;
+    width: auto;
+}
+
+input[type=text]
+{
+    color: white;
+    padding-left: 300px;
+    background: white;
+}
+
